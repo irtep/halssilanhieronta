@@ -1,0 +1,37 @@
+/* CSS FOR MAIN MENU SCREEN */
+* { 
+  font-family: 'El Messiri', sans-serif;
+} 
+body {
+  background-image: url("https://cdn.glitch.com/8e965a5c-48b1-4c8d-b6ae-d2a3d2bf7452%2Fbackgroundimage.jpg?1551344247047");
+  background-color: gray;
+  color: white;
+  /*
+  background-repeat: no-repeat;
+  background-attachment: fixed;*/
+}
+h1 {
+  text-align: center;
+  color: white; 
+  font-family: 'El Messiri', sans-serif;
+}
+
+h2 {
+  margin: 0px 2px 0px 2px;
+  padding: 0px 100px 0px 100px;
+}
+
+#information1{
+  color: black;
+  margin: 2px;
+}
+
+.descri {
+  padding: 10px 100px 10px 100px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 140%;
+  }
+}
