@@ -34,4 +34,11 @@ h2 {
   body {
     font-size: 140%;
   }
+  .descri {
+    padding: 2px 5px 2px 5px;
+  }
+  h2 {
+    margin: 0px 2px 0px 2px;
+    padding: 0px 5px 0px 5px;
+  }
 }
