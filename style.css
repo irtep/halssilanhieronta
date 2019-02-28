@@ -30,6 +30,7 @@ h2 {
   padding: 10px 100px 10px 100px;
 }
 
+/* for mobile */
 @media screen and (max-width: 600px) {
   body {
     font-size: 140%;
