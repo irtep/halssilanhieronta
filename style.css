@@ -30,6 +30,10 @@ h2 {
   padding: 10px 100px 10px 100px;
 }
 
+.noShow {
+  opacity: 0;
+}
+
 /* for mobile */
 @media screen and (max-width: 600px) {
   body {
