@@ -19,12 +19,10 @@ h1 {
   color: black; 
   font-family: 'El Messiri', sans-serif;
 }
-/*
+
 h2 {
-  margin: 0px 2px 0px 2px;
-  padding: 0px 100px 0px 100px;
+  padding-top: 2px;
 }
-*/
 #information1{
   color: black;
   margin: 2px;
