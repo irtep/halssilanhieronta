@@ -3,12 +3,16 @@
   font-family: 'El Messiri', sans-serif;
 } 
 body {
+  /*
   background-image: url("https://cdn.glitch.com/8e965a5c-48b1-4c8d-b6ae-d2a3d2bf7452%2Fbackgroundimage.jpg?1551344247047");
   background-size: cover;
-  color: white;
-  background-color: gray;
+  */
+  color: black;
+  background-color: skyblue;
+  /*
   background-repeat: no-repeat;
   background-attachment: fixed;
+  */
 }
 h1 {
   text-align: center;
