@@ -65,4 +65,14 @@ h2 {
     margin: 0px 2px 0px 2px;
     padding: 0px 5px 0px 5px;
   }
+  #container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  grid-template-areas: 
+    'desci'
+    'fb';
+  grid-gap: 1px;
+  height: 100%;
+}
 }
