@@ -43,7 +43,7 @@ h2 {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
   grid-template-areas: 
-    'desci fb';
+    'desci fabo';
   grid-gap: 1px;
   height: 100%;
 }
@@ -51,7 +51,7 @@ h2 {
   grid-area: desci;
 }
 #fb {
-  grid-area: fb;
+  grid-area: fabo;
 }
 /* for mobile */
 @media screen and (max-width: 600px) {
@@ -71,7 +71,7 @@ h2 {
   grid-template-rows: 1fr;
   grid-template-areas: 
     'desci'
-    'fb';
+    'fabo';
   grid-gap: 1px;
   height: 100%;
   }
