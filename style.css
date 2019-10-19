@@ -38,6 +38,21 @@ h2 {
   display: none;
 }
 
+#container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-template-areas: 
+    'desci fb';
+  grid-gap: 1px;
+  height: 100%;
+}
+#desc {
+  grid-area: desci;
+}
+#fb {
+  grid-area: fb;
+}
 /* for mobile */
 @media screen and (max-width: 600px) {
   body {
