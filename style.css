@@ -35,7 +35,7 @@ h2 {
 }
 
 .noShow {
-  opacity: 0;
+  display: none;
 }
 
 /* for mobile */
