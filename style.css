@@ -53,6 +53,9 @@ h2 {
 #fb {
   grid-area: fabo;
 }
+.fb-page {
+  border-radius: 5px;
+}
 /* for mobile */
 @media screen and (max-width: 600px) {
   body {
